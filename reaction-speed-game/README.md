@@ -8,6 +8,7 @@ A polished React-based reaction speed game featuring smooth animations, progress
 
 🎥 Demo Video: 🎥 **Demo Video**: [Watch Here](https://github.com/BishwajeetPatel/LSOYSassignment/blob/main/assets/demo.mp4)
 
+🎥 **Demo Video**: [Watch Here](https://github.com/BishwajeetPatel/LSOYSassignment/blob/main/public/demo.mp4)
 
 💻 Source Code:https://github.com/BishwajeetPatel/LSOYSassignment
 
