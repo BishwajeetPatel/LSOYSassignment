@@ -1,0 +1,46 @@
+{
+    "short_name": "Reaction Speed",
+    "name": "Reaction Speed Challenge Game",
+    "description": "Test your reaction speed with this addictive browser game featuring progressive difficulty and smooth animations",
+    "icons": [
+      {
+        "src": "/favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "/icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "maskable"
+      },
+      {
+        "src": "/icon-512x512.png",
+        "type": "image/png", 
+        "sizes": "512x512",
+        "purpose": "any"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#7c3aed",
+    "background_color": "#0f172a",
+    "orientation": "any",
+    "scope": "/",
+    "lang": "en",
+    "categories": ["games", "entertainment"],
+    "screenshots": [
+      {
+        "src": "/screenshot-wide.png",
+        "sizes": "1280x720",
+        "type": "image/png",
+        "form_factor": "wide"
+      },
+      {
+        "src": "/screenshot-narrow.png", 
+        "sizes": "720x1280",
+        "type": "image/png",
+        "form_factor": "narrow"
+      }
+    ]
+  }
